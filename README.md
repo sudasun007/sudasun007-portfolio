@@ -59,3 +59,5 @@ These are just a few examples of improvements I'm planning for my website. I wil
 For any questions or feedback, please feel free to reach out to me at newbornbaddash@gmail.com and sudheeradasun007@gmail.com.
 
 Thank you for visiting my portfolio website!
+
+chatGpt link: https://chat.openai.com/share/94480d17-4442-4024-b007-84c8807a08ca
