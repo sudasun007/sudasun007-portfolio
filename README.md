@@ -18,7 +18,7 @@ This repository contains the code for my personal portfolio website. The website
 
 ## How to Run Locally
 
-1. Clone the repository to your local machine using `git clone [repository link]`.
+1. Clone the repository to your local machine using `git clone [https://sudasun007.github.io/sudasun007-portfolio/]`.
 2. Navigate to the project directory.
 3. Open `index.html` in your browser.
 
